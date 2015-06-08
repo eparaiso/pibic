@@ -72,7 +72,7 @@ public class Principal {
 			List<Commit> commits = p.lerDadosCommit(path);
 			
 			
-			
+			// isto é um comentário de teste
 			p.salvarDadosCommit(path);
 
 			Project project = p.lerProjeto(path);
