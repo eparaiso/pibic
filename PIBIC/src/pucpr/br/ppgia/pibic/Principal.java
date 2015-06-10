@@ -73,7 +73,7 @@ public class Principal {
 			
 			
 			// isto é um comentário de teste
-			*//p.salvarDadosCommit(path); // Não é necessário salvar os commits toda vez.
+			//p.salvarDadosCommit(path); // Não é necessário salvar os commits toda vez.
 
 			Project project = p.lerProjeto(path);
 
