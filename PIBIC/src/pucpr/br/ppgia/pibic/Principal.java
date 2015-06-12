@@ -71,7 +71,7 @@ public class Principal {
 			String path = selectedFile.getAbsolutePath();
 			List<Commit> commits = p.lerDadosCommit(path);
 			
-			
+			//fechar issue
 			// isto é um comentário de teste
 			//p.salvarDadosCommit(path); // Não é necessário salvar os commits toda vez.
 
