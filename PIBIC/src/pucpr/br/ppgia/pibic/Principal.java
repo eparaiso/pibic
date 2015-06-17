@@ -61,7 +61,7 @@ public class Principal {
 		Principal p = new Principal();
 
 		JFileChooser chooser = new JFileChooser();
-
+		// Label Attachment 
 		int option = chooser.showOpenDialog(new JFrame()); // parentComponent
 															// must a component
 															// like JFrame,
