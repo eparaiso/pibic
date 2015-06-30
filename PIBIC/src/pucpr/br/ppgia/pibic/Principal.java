@@ -1,5 +1,5 @@
 package pucpr.br.ppgia.pibic;
-
+//Paraiso
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Paint;
